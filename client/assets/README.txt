@@ -1,0 +1,1 @@
+Replace placeholder assets with your own images: bg_vietnam.jpg, flag_vn_texture.png, flag_vn_wave.gif, gta_banner.png, valorant_banner.png, roblox_banner.png. The QML flag shader is not claimed as verified yet.

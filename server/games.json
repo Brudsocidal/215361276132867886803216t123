@@ -1,0 +1,5 @@
+{
+  "gta": {"released": true, "module_name": "gta_module"},
+  "valorant": {"released": false, "module_name": "valorant_module"},
+  "roblox": {"released": false, "module_name": "roblox_module"}
+}
